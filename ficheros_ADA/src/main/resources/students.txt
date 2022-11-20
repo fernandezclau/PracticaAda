@@ -1,0 +1,6 @@
+Pepa	Perez	null	12345678Z	# Ok
+Pepe	Perez	2000-03-02	23456789A	# Letra mala --> D
+Pepi	Perez	2000-03-02	12345V	# id corto --> 000
+Pepo	Perez	2000-03-02	123456789B	# id largo
+Pepu	Perez	2010-03-02	11223344B	# menor
+María del Mar	González del Prado	2004-09-30	01223344C	# Ok
